@@ -767,15 +767,27 @@ https://github.com/lakshmiraj1426/RT-DETR-MultiClass-Waste-Detection
 
 ---
 
-# Team
+# Authors
 
-- **N. Shyam**
-- **K. Mourya Mahesh**
-- **M. Himakiran**
-- **Md. Amman**
-- **R. Lakshmiraj**
+This project was developed by:
 
----
+Nagaraju Shyam Vara Prasad Raju
+
+Karnikula Mourya Mahesh
+
+Mustina Hima Kiran
+
+Mohammad Amman Fawaz
+
+Lakshmi Raj Ravi
+
+K. V. Sambasiva Rao
+
+Program: B.Tech – Computer Science & Engineering
+
+Institution: DR. RVR NRI Institute of Technology Deemed to be University
+
+Batch: 2023–2027
 
 # Citation
 
